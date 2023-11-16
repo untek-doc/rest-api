@@ -5,8 +5,4 @@
 
 Например:
 
-```json
-{
-	"Time-Zone": "Europe/Berlin"
-}
-```
+	Time-Zone: Europe/Berlin
