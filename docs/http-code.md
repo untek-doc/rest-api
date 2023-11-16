@@ -15,8 +15,8 @@ HTTP-код
 
 ```json
 {
-    "message": "Bad query parameters",
-    "code": 0
+    "title": "Bad request",
+    "message": "Bad query parameters"
 }
 ```
 
