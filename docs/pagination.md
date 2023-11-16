@@ -11,7 +11,7 @@
 
 ```json
 {
-	"page": {
+    "page": {
         "number": 3
     }
 }
