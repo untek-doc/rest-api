@@ -9,6 +9,6 @@
 
 ```json
 {
-	"sort": "status,-created_at",
+	"sort": "status,-created_at"
 }
 ```
