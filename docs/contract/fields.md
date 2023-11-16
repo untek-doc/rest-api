@@ -7,7 +7,7 @@
 
 ```json
 {
-	"fields": "id,title",
+	"fields": "id,title"
 }
 ```
 

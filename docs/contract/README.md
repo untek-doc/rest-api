@@ -2,7 +2,6 @@
 
 ## Начало
 
-* [Введение](intro.md)
 * [HTTP-Заголовки](header.md)
 * [HTTP-методы](method.md)
 * [HTTP-код](http-code.md)
