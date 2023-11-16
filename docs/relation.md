@@ -7,10 +7,8 @@
 
 Список дополнительных полей для вывода (обычно это вложенные сущности)
 
-```json
-{
-	"expand": "category,tags,followers"
-}
-```
+Например URI:
+
+    /v1/post?expand=category,tags,followers
 
 Будут загружены вложенные сущности.
