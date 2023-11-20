@@ -2,11 +2,10 @@
 
 ## Начало
 
-* [HTTP-Заголовки](docs/header.md)
+* [HTTP-заголовки](docs/header.md)
 * [HTTP-методы](docs/method.md)
 * [HTTP-код](docs/http-code.md)
-* [Ссылки](docs/url.md)
-* [CRUD](docs/crud.md)
+* [URI](docs/uri.md)
 
 ## Локальные параметры
 
@@ -24,6 +23,7 @@
 
 ## Разное
 
+* [CRUD](docs/crud.md)
 * [Формат ошибки валидации данных](./docs/unprocessable-entity-format.md)
 * [Формат времени](docs/time-format.md)
 * [Версионность АПИ](docs/version.md)
