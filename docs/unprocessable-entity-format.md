@@ -11,11 +11,11 @@
     "message": "User input error",
     "errors": [
         {
-            "field": "[amount]",
+            "field": "amount",
             "message": "Поле должно быть целым числом"
         },
         {
-            "field": "[description]",
+            "field": "description",
             "message": "Поле не может быть пустым"
         }
     ]
@@ -30,11 +30,11 @@
     "message": "User input error",
     "errors": [
         {
-            "field": "[amount]",
+            "field": "amount",
             "message": "Поле должно быть целым числом"
         },
         {
-            "field": "[amount]",
+            "field": "amount",
             "message": "Сумма не должна быть меньше, чем 20 у.е."
         }
     ]
@@ -49,11 +49,11 @@
     "message": "User input error",
     "errors": [
         {
-            "field": "[page][number]",
+            "field": "page.number",
             "message": "Поле должно быть целым числом"
         },
         {
-            "field": "[page][size]",
+            "field": "page.size",
             "message": "Поле должно быть целым числом"
         }
     ]
