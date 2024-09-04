@@ -28,3 +28,4 @@
 * [Формат времени](docs/time-format.md)
 * [Формат ссылок](docs/link-format.md)
 * [Версионность АПИ](docs/version.md)
+* [Асинхронная обработка запросов](docs/async.md)
